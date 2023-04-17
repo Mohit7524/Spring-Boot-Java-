@@ -54,6 +54,9 @@
 
 * Call an API for StudentDetails collection which give top 3 student details on the basic of their percentage.
 * Perform CRUD opertation for StudentDetail collection.
+* Call an APi which create all subjects objects in subjects collection when if any dacument inserted studentDetails collections.
+* Make an API if i change any subject obtained marks in subjects collection then that subjects marks also changed in Studentdetails collection, and then based on the updated marks ,in studentDetails collection total marks and percentage will also changed.
+
  
 
 
